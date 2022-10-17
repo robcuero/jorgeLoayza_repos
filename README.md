@@ -3,10 +3,10 @@
 
 ## 1. `yarn`
 
-Instala dependencias
+Instalar dependencias
 
 ### 3. `yarn start`
 
-
+Inicia el programa
 
 
